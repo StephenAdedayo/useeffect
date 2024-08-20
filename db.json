@@ -1,0 +1,41 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "img": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/34/0861091/1.jpg?6799",
+        "name": "Adidas sneaker",
+        "price": 19.99,
+        "description": "This is the description for Product One. It's a high-quality item with great features."
+      },
+      {
+        "id": 2,
+        "img": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/69/5774523/1.jpg?4961",
+        "name": "Dr Teal",
+        "price": 29.99,
+        "description": "This is the description for Product Two. It's a popular choice among customers."
+      },
+      {
+        "id": 3,
+        "img": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/64/367108/1.jpg?1265",
+        "name": "Power Bank",
+        "price": 39.99,
+        "description": "This is the description for Product Three. Known for its durability and style."
+      },
+      {
+        "id": 4,
+        "img": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/19/5187811/1.jpg?9401",
+        "name": "Standing fan",
+        "price": 49.99,
+        "description": "This is the description for Product Four. A great addition to your collection."
+      },
+      {
+        "id": 5,
+        "img": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/65/6514162/1.jpg?5891",
+        "name": "Ecoflow",
+        "price": 59.99,
+        "description": "This is the description for Product Five. It offers excellent performance and value."
+
+
+        }
+    ]
+}
